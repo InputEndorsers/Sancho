@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": "Some people call me Leios"
+      "@value": "Me, myself and I"
     },
     "dRepName": {
       "@value": "InputEndorsers"
@@ -62,11 +62,11 @@
     "references": [
       {
         "@type": "Other",
-        "CIPQQQ:reference-label": {
+        "label": {
           "@value": "Label"
         },
-        "CIPQQQ:reference-uri": {
-          "@value": "https://twitter.com/InputEndorsers"
+        "uri": {
+          "@value": "x.com/inputendorsers"
         }
       }
     ]
